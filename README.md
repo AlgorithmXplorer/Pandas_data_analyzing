@@ -1,19 +1,19 @@
 # DATA ANALYZİNG QUESTİONS WİTH PANDAS
 ---
-## ![alt text](eggs/b.png)Contents
+## ![alt text](icons/b.png)Contents
 ### - [Description](#Description)
 ### - [Usage](#Usage)
 ### - [Dataset List for](#Dataset-List-for)
 ---
-## ![alt text](eggs/d.png)Description
+## ![alt text](icons/d.png)Description
 This main goal of this repository is to learn the Pandas mnodule, but not like courses. Its More like <ins>"Duoligo Style"</ins> .But What does <ins>"Duoligo Style"</ins> mean. I mean you learn with lots of questions in this repo's files.
 
 ---
-## ![alt text](eggs/a.png)Usage
+## ![alt text](icons/a.png)Usage
 If you want to solve these questions then clone this repo and delete my solutions. But don't forget to install datasets too. Some datasets don't have clear licence so I didn't put these datasets but I put the links of datasets
 
 ---
-## ![alt text](eggs/c.png)Dataset List for [**Pandas_data_analyzing**](https://github.com/AlgorithmXplorer/Pandas_data_analyzing)
+## ![alt text](icons/c.png)Dataset List for [**Pandas_data_analyzing**](https://github.com/AlgorithmXplorer/Pandas_data_analyzing)
 
 ### 1. Spotify and Youtube
 - 🔗 [Kaggle Link](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
